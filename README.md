@@ -2,11 +2,13 @@
 a react-native radio component for android and ios ,user can custom it 
 # Installation
 -npm i react-native-radio-model --save
-#Usage
-Import this module:
---javascript
-import CommonDialog from 'react-native-dialogs-master';
---
+# Usage
+## Import this module:
+```javascript
+ import CommonDialog from 'react-native-dialogs-master';
+```
+
+## code
 ```javascript
 import React,{Component} from 'react'
 import {
@@ -22,7 +24,7 @@ import {
 var Dimensions = require('Dimensions');
 var width=Dimensions.get('window').width;
 var height=Dimensions.get('window').height;
-import RadioModal from './radio2';
+import CommonDialog from 'react-native-dialogs-master';
 var datas= [
             {
               "selecteId": 13,
