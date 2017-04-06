@@ -125,10 +125,10 @@ export default class RadioModalItem extends Component{
   -2. 
    ```javascript
       <RadioModal>
-              <Text value="0">选项a</Text>
-						  <Text value="1" disabled="true">选项b</Text>
-						  <Text value="2">选项c</Text>
-						  <Text value="3">选项d</Text>
+          <Text value="0">选项a</Text>
+	  <Text value="1" disabled="true">选项b</Text>
+	  <Text value="2">选项c</Text>
+	  <Text value="3">选项d</Text>
       </RadioModal>
 ```
 # Customization
