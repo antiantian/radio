@@ -120,7 +120,7 @@ export default class RadioModalItem extends Component{
  --1.
    ```javascript
    <RadioModal dataOption={data} />
-    ```
+   ```
  --2. 
    ```javascript
       <RadioModal>
@@ -129,7 +129,7 @@ export default class RadioModalItem extends Component{
 						  <Text value="2">选项c</Text>
 						  <Text value="3">选项d</Text>
       </RadioModal>
-      ```
+```
 # Customization
 - innerStyle：Style of each radio button
 - txtColor：Style of each radio button text
