@@ -115,6 +115,8 @@ export default class RadioModalItem extends Component{
 	}
 }
 ```
+# Show
+<img src="https://github.com/antiantian/radio/blob/master/show.jpg"/>
 # Explain
 - Two ways of using
 
