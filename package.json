@@ -1,0 +1,26 @@
+{
+  "name": "react-native-radio-model",
+  "version": "1.0.0",
+  "description": "a react-native radio component for android and ios ,user can customit freedom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antiantian/radio.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "radio",
+    "select",
+    "radiogroup"
+  ],
+  "author": "anyutz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antiantian/radio/issues"
+  },
+  "homepage": "https://github.com/antiantian/radio#readme"
+}
