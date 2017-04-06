@@ -117,11 +117,12 @@ export default class RadioModalItem extends Component{
 ```
 # Explain
 - Two ways of using
- --1.
+
+  -1.
    ```javascript
    <RadioModal dataOption={data} />
    ```
- --2. 
+  -2. 
    ```javascript
       <RadioModal>
               <Text value="0">选项a</Text>
