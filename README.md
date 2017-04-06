@@ -1,11 +1,11 @@
 # radio
 a react-native radio component for android and ios ,user can custom it 
 # Installation
--npm i react-native-radio-model --save
+-npm i react-native-radio-master --save
 # Usage
 ## Import this module:
 ```javascript
- import CommonDialog from 'react-native-radio-model';
+ import CommonDialog from 'react-native-radio-master';
 ```
 
 ## code
@@ -24,7 +24,7 @@ import {
 var Dimensions = require('Dimensions');
 var width=Dimensions.get('window').width;
 var height=Dimensions.get('window').height;
-import CommonDialog from 'react-native-radio-model';
+import CommonDialog from 'react-native-radio-master';
 var datas= [
             {
               "selecteId": 13,
